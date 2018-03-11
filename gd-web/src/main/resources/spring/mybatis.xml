@@ -9,7 +9,7 @@
     </settings>
     <!--使用别名-->
     <typeAliases>
-        <package name="com.hunt.model.entity"/>
+        <package name="com.hebnu.cs.gd.model.entity"/>
     </typeAliases>
 
     <!--插件-->
