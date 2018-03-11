@@ -3,12 +3,12 @@
          xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>hunt-admin</artifactId>
-        <groupId>com.anouyang.hunt</groupId>
+        <artifactId>gd-admin</artifactId>
+        <groupId>com.hebnu.cs.gd</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>hunt-parent</artifactId>
+    <artifactId>gd-parent</artifactId>
     <packaging>pom</packaging>
 
     <properties>

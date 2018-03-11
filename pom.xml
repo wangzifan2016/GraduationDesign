@@ -4,19 +4,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.anouyang.hunt</groupId>
-    <artifactId>hunt-admin</artifactId>
+    <groupId>com.hebnu.cs.gd</groupId>
+    <artifactId>gd-admin</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>hunt-admin</name>
+    <name>gd-admin</name>
 
     <modules>
-        <module>hunt-parent</module>
-        <module>hunt-common</module>
-        <module>hunt-model</module>
-        <module>hunt-dao</module>
-        <module>hunt-service</module>
-        <module>hunt-web</module>
+        <module>gd-parent</module>
+        <module>gd-common</module>
+        <module>gd-model</module>
+        <module>gd-dao</module>
+        <module>gd-service</module>
+        <module>gd-web</module>
     </modules>
 
     <developers>

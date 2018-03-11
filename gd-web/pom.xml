@@ -3,14 +3,14 @@
          xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>hunt-parent</artifactId>
-        <groupId>com.anouyang.hunt</groupId>
+        <artifactId>gd-parent</artifactId>
+        <groupId>com.hebnu.cs.gd</groupId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../hunt-parent/pom.xml</relativePath>
+        <relativePath>../gd-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>hunt-web</artifactId>
+    <artifactId>gd-web</artifactId>
     <packaging>war</packaging>
     <description>web模块</description>
 
@@ -28,8 +28,8 @@
             <artifactId>springfox-petstore</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.anouyang.hunt</groupId>
-            <artifactId>hunt-service</artifactId>
+            <groupId>com.hebnu.cs.gd</groupId>
+            <artifactId>gd-service</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
@@ -254,7 +254,7 @@
         </repository>
     </repositories>
     <build>
-        <finalName>hunt</finalName>
+        <finalName>gd</finalName>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
@@ -287,7 +287,7 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <version>2.4</version>
                 <configuration>
-                    <warName>hunt-admin</warName>
+                    <warName>gd-admin</warName>
                 </configuration>
             </plugin>
         </plugins>
