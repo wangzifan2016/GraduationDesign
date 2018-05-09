@@ -22,11 +22,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.UUID;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/8/13:37
- * @Description
- */
 @Api(value = "用户管理模块")
 @Controller
 @RequestMapping("user")

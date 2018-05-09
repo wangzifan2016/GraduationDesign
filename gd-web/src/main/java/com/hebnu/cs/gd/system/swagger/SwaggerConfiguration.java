@@ -29,7 +29,7 @@ public class SwaggerConfiguration {
 
 
     private ApiInfo apiInfo() {
-        Contact contact = new Contact("欧阳安", "", "981017952@qq.com");
+        Contact contact = new Contact("王子凡", "", "1039738015@qq.com");
         ApiInfo apiInfo = new ApiInfo(
                 "hunt-admin接口文档",//大标题
                 "请勿随意测试删除类接口",//小标题

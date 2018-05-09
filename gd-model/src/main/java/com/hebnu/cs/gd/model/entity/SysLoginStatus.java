@@ -1,10 +1,6 @@
 package com.hebnu.cs.gd.model.entity;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-18 15:07
- * @Description:
- */
+
 public class SysLoginStatus {
 
     // id :主键

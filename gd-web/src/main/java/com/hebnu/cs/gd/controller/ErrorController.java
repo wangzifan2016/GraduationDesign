@@ -8,11 +8,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-/**
- * @Author ouyangan
- * @Date 2016/11/1/19:49
- * @Description
- */
 @Api(value = "错误处理")
 @Controller
 @RequestMapping("error")

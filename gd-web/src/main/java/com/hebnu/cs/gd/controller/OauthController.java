@@ -20,10 +20,7 @@ import com.hebnu.cs.gd.util.SystemConstant;
 import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/23
- */
+
 @Controller
 @RequestMapping("oauth")
 public class OauthController extends BaseController {

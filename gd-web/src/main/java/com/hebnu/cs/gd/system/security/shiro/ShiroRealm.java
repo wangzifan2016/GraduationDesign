@@ -22,8 +22,6 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @Author: ouyangan
- * @Date : 2016/10/7
  * @Description 自定义realm实现
  */
 public class ShiroRealm extends AuthorizingRealm {

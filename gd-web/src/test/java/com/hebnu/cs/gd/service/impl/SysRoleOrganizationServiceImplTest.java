@@ -15,10 +15,7 @@ import java.util.List;
 
 import static org.junit.Assert.assertTrue;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/26
- */
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration({"classpath:spring.xml"})
 @Transactional

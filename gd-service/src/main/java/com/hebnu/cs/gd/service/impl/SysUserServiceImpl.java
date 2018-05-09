@@ -21,10 +21,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/7
- */
+
 @Service
 @Transactional
 public class SysUserServiceImpl implements SysUserService {

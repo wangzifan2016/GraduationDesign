@@ -1,10 +1,6 @@
 package com.hebnu.cs.gd.model.entity;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-17 16:52
- * @Description:
- */
+
 public class SysUser {
 
     // id :

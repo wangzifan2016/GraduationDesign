@@ -8,10 +8,6 @@ import com.hebnu.cs.gd.model.entity.SysIpForbidden;
 
 import java.util.List;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/21
- */
 public interface SystemService {
     void forceLogout(long userId);
 

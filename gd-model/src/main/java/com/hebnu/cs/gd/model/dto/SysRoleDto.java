@@ -4,11 +4,7 @@ import com.hebnu.cs.gd.model.entity.SysPermission;
 
 import java.util.List;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-12 14:21
- * @Description:
- */
+
 public class SysRoleDto {
 
     // id :

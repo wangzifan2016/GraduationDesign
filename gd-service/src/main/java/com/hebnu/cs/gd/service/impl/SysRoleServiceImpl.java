@@ -19,11 +19,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/14/14:53
- * @Description
- */
 @Service
 @Transactional
 public class SysRoleServiceImpl implements SysRoleService {

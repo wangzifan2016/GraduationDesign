@@ -8,10 +8,6 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/11/14
- */
 public class ErrorInterceptor implements HandlerInterceptor {
     private static final Logger log = LoggerFactory.getLogger(ErrorInterceptor.class);
 

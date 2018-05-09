@@ -1,10 +1,5 @@
 package com.hebnu.cs.gd.model.entity;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-19 11:33
- * @Description:
- */
 public class SysLog {
 
     // id :主键

@@ -23,7 +23,7 @@
 <body class="easyui-layout">
 <div data-options="region:'north',border:false" style="height:40px; background:#198ec2;padding: 0;">
     <div style="height: 40px; float: left; line-height: 40px">
-        <span style="font-weight:bolder; font-size: large;padding-left: 10px;color: #ffffff">Hunt-Admin 快速开发平台</span>
+        <span style="font-weight:bolder; font-size: large;padding-left: 10px;color: #ffffff">后台管理系统</span>
     </div>
     <div style="float:right;height: 40px;padding: 0;">
 
@@ -123,7 +123,7 @@
                     <div style="padding: 5px 10px;">
                         <li class="nav-list">
                             <div class="easyui-linkbutton" data-options="iconCls:'icon-reload'" style="border: 0;"
-                                 href="${pageContext.request.contextPath}/druid/index.html">数据库监控
+                                 href="">数据库监控
                             </div>
                         </li>
                     </div>
@@ -131,19 +131,13 @@
                 <div style="padding: 5px 10px;">
                     <li class="nav-list">
                         <div class="easyui-linkbutton" data-options="iconCls:'icon-reload'" style="border: 0;"
-                             href="${pageContext.request.contextPath}/swagger-ui.html">接口文档
+                             href="">接口文档
                         </div>
                     </li>
                 </div>
             </ul>
         </div>
     </div>
-</div>
-<div data-options="region:'south',boder:true" style="height:26px;">
-    <div style="text-align: center;line-height: 24px;font-size: inherit">
-        作者:ananan&nbsp;QQ群:234700542
-    </div>
-
 </div>
 <div data-options="region:'center',border:false">
     <div id="tab" class="easyui-tabs" data-options="fit:true">

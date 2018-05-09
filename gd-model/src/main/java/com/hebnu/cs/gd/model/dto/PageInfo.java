@@ -1,9 +1,6 @@
 package com.hebnu.cs.gd.model.dto;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/12
- */
+
 public class PageInfo {
     private int total;
     private Object rows;

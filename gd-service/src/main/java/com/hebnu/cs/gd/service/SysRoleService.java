@@ -3,11 +3,7 @@ package com.hebnu.cs.gd.service;
 import com.hebnu.cs.gd.model.dto.PageInfo;
 import com.hebnu.cs.gd.model.entity.SysRole;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/14/14:53
- * @Description
- */
+
 public interface SysRoleService {
     boolean isExsitRoleName(String name);
 

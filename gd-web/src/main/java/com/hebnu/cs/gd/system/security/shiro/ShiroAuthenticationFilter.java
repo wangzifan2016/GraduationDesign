@@ -13,8 +13,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @Author ouyangan
- * @Date 2016/11/1/19:32
  * @Description 登录过滤器
  */
 public class ShiroAuthenticationFilter extends PassThruAuthenticationFilter {

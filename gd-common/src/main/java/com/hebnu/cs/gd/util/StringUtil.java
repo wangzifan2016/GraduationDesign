@@ -8,10 +8,6 @@ import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.io.Writer;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/7
- */
 public class StringUtil {
     private static Logger log = LoggerFactory.getLogger(StringUtil.class);
 

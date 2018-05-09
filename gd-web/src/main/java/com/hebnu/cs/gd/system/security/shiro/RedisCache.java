@@ -14,8 +14,6 @@ import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @Author ouyangan
- * @Date 2016/10/9/13:55
  * @Description Cache   redis实现
  */
 public class RedisCache<K, V> implements Cache<K, V>, Serializable {

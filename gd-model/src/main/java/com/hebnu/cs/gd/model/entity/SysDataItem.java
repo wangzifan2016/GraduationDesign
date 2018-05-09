@@ -1,10 +1,6 @@
 package com.hebnu.cs.gd.model.entity;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-25 16:08
- * @Description:
- */
+
 public class SysDataItem {
 
     // id :

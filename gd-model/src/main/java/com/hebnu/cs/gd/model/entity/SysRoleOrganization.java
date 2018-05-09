@@ -1,10 +1,6 @@
 package com.hebnu.cs.gd.model.entity;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-17 17:54
- * @Description:
- */
+
 public class SysRoleOrganization {
 
     // id :

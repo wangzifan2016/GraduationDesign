@@ -1,10 +1,5 @@
 package com.hebnu.cs.gd.model.entity;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-28 23:32
- * @Description:
- */
 public class SysIpForbidden {
 
     // id :

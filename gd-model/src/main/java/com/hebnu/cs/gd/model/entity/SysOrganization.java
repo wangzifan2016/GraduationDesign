@@ -1,10 +1,6 @@
 package com.hebnu.cs.gd.model.entity;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-12 14:21
- * @Description:
- */
+
 public class SysOrganization {
 
     // id :

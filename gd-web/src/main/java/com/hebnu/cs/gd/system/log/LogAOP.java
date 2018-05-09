@@ -18,10 +18,6 @@ import com.hebnu.cs.gd.service.SystemService;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/15
- */
 @Aspect
 @Component
 @Order(2)

@@ -7,11 +7,7 @@ import com.hebnu.cs.gd.model.entity.SysRoleOrganization;
 
 import java.util.List;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/17/16:30
- * @Description
- */
+
 public interface SysRoleOrganizationService {
     boolean isExistName(String name, long parentId);
 

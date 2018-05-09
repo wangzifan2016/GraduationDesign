@@ -8,10 +8,7 @@ import com.hebnu.cs.gd.model.entity.SysOrganization;
 
 import java.util.List;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/10
- */
+
 public interface SysOrganizationService {
     Long insertOrganization(SysOrganization sysOrganization);
 

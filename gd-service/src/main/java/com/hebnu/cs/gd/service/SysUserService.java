@@ -6,10 +6,7 @@ import com.hebnu.cs.gd.model.entity.SysUser;
 
 import java.io.Serializable;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/7
- */
+
 public interface SysUserService {
 
     long insertUser(SysUser user, String jobIds, String permissionIds);

@@ -17,10 +17,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/15
- */
+
 @Transactional
 @Service
 public class SysPermissionServiceImpl implements SysPermissionService {

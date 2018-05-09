@@ -2,11 +2,7 @@ package com.hebnu.cs.gd.model.entity;
 
 import java.io.Serializable;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-12 14:21
- * @Description:
- */
+
 public class SysPermission implements Serializable {
 
     // id :

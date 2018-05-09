@@ -1,10 +1,6 @@
 package com.hebnu.cs.gd.util;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/8/13:40
- * @Description
- */
+
 public class Result {
     private int code;
     private String msg;

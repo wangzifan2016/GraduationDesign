@@ -19,10 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/21
- */
+
 @Service
 @Transactional
 public class SystemServiceImpl implements SystemService {

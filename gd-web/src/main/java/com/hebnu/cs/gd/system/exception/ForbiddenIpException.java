@@ -1,10 +1,5 @@
 package com.hebnu.cs.gd.system.exception;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/29/17:32
- * @Description
- */
 public class ForbiddenIpException extends Exception {
     /**
      * Constructs a new exception with the specified detail message.  The

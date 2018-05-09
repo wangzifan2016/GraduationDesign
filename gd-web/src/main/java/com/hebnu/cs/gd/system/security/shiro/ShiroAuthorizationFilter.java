@@ -15,8 +15,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @Author ouyangan
- * @Date 2016/11/1/19:35
  * @Description 权限过滤器 未启用
  */
 public class ShiroAuthorizationFilter extends AuthorizationFilter {

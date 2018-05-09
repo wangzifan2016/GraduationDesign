@@ -1,10 +1,6 @@
 package com.hebnu.cs.gd.util;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/8/13:41
- * @Description
- */
+
 public enum ResponseCode {
     success(10000, "操作成功"),
     error(20000, "服务器错误"),

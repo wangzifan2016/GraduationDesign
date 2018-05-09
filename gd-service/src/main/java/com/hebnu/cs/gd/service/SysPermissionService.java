@@ -7,10 +7,7 @@ import com.hebnu.cs.gd.model.entity.SysPermissionGroup;
 
 import java.util.List;
 
-/**
- * @Author: ouyangan
- * @Date : 2016/10/15
- */
+
 public interface SysPermissionService {
     boolean isExistName(long groupId, String name);
 

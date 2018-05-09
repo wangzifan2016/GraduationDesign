@@ -1,10 +1,6 @@
 package com.hebnu.cs.gd.util;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/8/14:10
- * @Description
- */
+
 public enum DataStatus {
     normal(1, "正常"),
     delete(2, "已删除"),

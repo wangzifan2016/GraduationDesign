@@ -4,11 +4,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/12/9:13
- * @Description
- */
+
 public class SysOrganizationTree {
     // id :
     private Long id;

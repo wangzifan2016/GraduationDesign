@@ -13,8 +13,6 @@ import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @Author ouyangan
- * @Date 2016/10/8/11:25
  * @Description session redis实现
  */
 public class RedisSessionDao extends AbstractSessionDAO {

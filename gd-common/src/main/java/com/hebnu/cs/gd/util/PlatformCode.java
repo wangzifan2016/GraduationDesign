@@ -1,10 +1,6 @@
 package com.hebnu.cs.gd.util;
 
-/**
- * @Author ouyangan
- * @Date 2016/10/8/14:22
- * @Description
- */
+
 public enum PlatformCode {
 
     web(1, "web"),

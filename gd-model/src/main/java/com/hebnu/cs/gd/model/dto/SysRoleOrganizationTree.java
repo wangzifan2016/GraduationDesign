@@ -3,11 +3,7 @@ package com.hebnu.cs.gd.model.dto;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-17 16:52
- * @Description:
- */
+
 public class SysRoleOrganizationTree {
 
     // id :

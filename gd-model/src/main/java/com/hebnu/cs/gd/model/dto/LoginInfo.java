@@ -7,11 +7,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author: ouyangan
- * @Date: 2016-10-17 16:52
- * @Description:
- */
+
 public class LoginInfo implements Serializable {
 
     private Long id;
