@@ -2,9 +2,9 @@
 
 <html>
 <head>
-    <title>未授权啊</title>
+    <title>未授权</title>
 </head>
 <body>
-未授权啊
+未授权
 </body>
 </html>
