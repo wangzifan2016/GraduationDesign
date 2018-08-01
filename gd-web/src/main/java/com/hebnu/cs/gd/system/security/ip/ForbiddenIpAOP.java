@@ -23,6 +23,8 @@ import javax.servlet.http.HttpServletRequest;
 @Order(1) //order值越小越先执行
 public class ForbiddenIpAOP {
 
+
+
     private static Logger log = LoggerFactory.getLogger(ForbiddenIpAOP.class);
 
     @Autowired
